@@ -1,7 +1,7 @@
 ---
 name: Good first issue
 about: "→→→"
-title: ''
+title: "???"
 labels: good first issue, invalid
 assignees: ''
 
